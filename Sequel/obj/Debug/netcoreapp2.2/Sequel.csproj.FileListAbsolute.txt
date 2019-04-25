@@ -1,0 +1,8 @@
+C:\Users\William Wilson\source\repos\Sequel\Sequel\bin\Debug\netcoreapp2.2\Sequel.deps.json
+C:\Users\William Wilson\source\repos\Sequel\Sequel\bin\Debug\netcoreapp2.2\Sequel.dll
+C:\Users\William Wilson\source\repos\Sequel\Sequel\obj\Debug\netcoreapp2.2\Sequel.csproj.CoreCompileInputs.cache
+C:\Users\William Wilson\source\repos\Sequel\Sequel\obj\Debug\netcoreapp2.2\Sequel.AssemblyInfoInputs.cache
+C:\Users\William Wilson\source\repos\Sequel\Sequel\obj\Debug\netcoreapp2.2\Sequel.AssemblyInfo.cs
+C:\Users\William Wilson\source\repos\Sequel\Sequel\bin\Debug\netcoreapp2.2\Sequel.pdb
+C:\Users\William Wilson\source\repos\Sequel\Sequel\obj\Debug\netcoreapp2.2\Sequel.dll
+C:\Users\William Wilson\source\repos\Sequel\Sequel\obj\Debug\netcoreapp2.2\Sequel.pdb
